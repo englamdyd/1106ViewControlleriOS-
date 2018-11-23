@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ViewController1106.xcodeproj">
+      location = "group:../../../../../../../Volumes/share/ios/ViewController1106/AutoLayout">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
